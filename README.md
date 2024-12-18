@@ -24,3 +24,25 @@
 
 - git add gallery.html
 - git commit -m"สร้างโครงสร้าง HTML สําหรับแกลเลอรี่"
+
+- git add css
+- git commit -m "เพิ่ม Masonry Layout ด ้วย CSS Grid"
+
+- git add css
+- git commit -m "เพิ่ม Media Queries สําหรับ Responsive Gallery"
+
+- git add gallery.html
+- git commit -m "เพิ่มรูปภาพและ Lazy Loading"
+
+
+- git add css
+- git commit -m "เพิ่ม Hover และ Loading Animations"
+
+
+- git add js
+- git commit -m "เพิ่ม Filter Animations"
+
+- git add gallery.html
+- git commit -m "เชื่อมต่อ JavaScript"
+
+- git push
